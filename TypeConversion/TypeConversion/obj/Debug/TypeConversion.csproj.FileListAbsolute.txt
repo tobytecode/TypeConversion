@@ -1,0 +1,5 @@
+E:\Tech Study\Project\C-Sharp-Tutorials\L4 Type Conversion\TypeConversion\TypeConversion\bin\Debug\TypeConversion.exe.config
+E:\Tech Study\Project\C-Sharp-Tutorials\L4 Type Conversion\TypeConversion\TypeConversion\bin\Debug\TypeConversion.exe
+E:\Tech Study\Project\C-Sharp-Tutorials\L4 Type Conversion\TypeConversion\TypeConversion\bin\Debug\TypeConversion.pdb
+E:\Tech Study\Project\C-Sharp-Tutorials\L4 Type Conversion\TypeConversion\TypeConversion\obj\Debug\TypeConversion.exe
+E:\Tech Study\Project\C-Sharp-Tutorials\L4 Type Conversion\TypeConversion\TypeConversion\obj\Debug\TypeConversion.pdb
